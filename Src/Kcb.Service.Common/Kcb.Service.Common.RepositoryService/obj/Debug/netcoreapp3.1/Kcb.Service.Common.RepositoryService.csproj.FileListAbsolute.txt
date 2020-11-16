@@ -1,0 +1,14 @@
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryService\bin\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryService.deps.json
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryService\bin\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryService.dll
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryService\bin\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryService.pdb
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryService\bin\Debug\netcoreapp3.1\Kcb.Service.Common.Domain.dll
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryService\bin\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryPersistence.dll
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryService\bin\Debug\netcoreapp3.1\Kcb.Service.Common.Domain.pdb
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryService\bin\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryPersistence.pdb
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryService\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryService.csprojAssemblyReference.cache
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryService\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryService.AssemblyInfoInputs.cache
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryService\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryService.AssemblyInfo.cs
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryService\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryService.csproj.CopyComplete
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryService\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryService.dll
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryService\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryService.pdb
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryService\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryService.csproj.CoreCompileInputs.cache

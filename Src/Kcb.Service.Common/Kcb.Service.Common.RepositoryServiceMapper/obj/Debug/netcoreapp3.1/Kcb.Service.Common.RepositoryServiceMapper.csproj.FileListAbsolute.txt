@@ -1,0 +1,16 @@
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryServiceMapper\bin\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryServiceMapper.deps.json
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryServiceMapper\bin\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryServiceMapper.dll
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryServiceMapper\bin\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryServiceMapper.pdb
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryServiceMapper\bin\Debug\netcoreapp3.1\Kcb.Service.Common.Domain.dll
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryServiceMapper\bin\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryPersistence.dll
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryServiceMapper\bin\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryService.dll
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryServiceMapper\bin\Debug\netcoreapp3.1\Kcb.Service.Common.Domain.pdb
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryServiceMapper\bin\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryService.pdb
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryServiceMapper\bin\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryPersistence.pdb
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryServiceMapper\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryServiceMapper.csprojAssemblyReference.cache
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryServiceMapper\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryServiceMapper.AssemblyInfoInputs.cache
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryServiceMapper\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryServiceMapper.AssemblyInfo.cs
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryServiceMapper\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryServiceMapper.csproj.CopyComplete
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryServiceMapper\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryServiceMapper.dll
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryServiceMapper\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryServiceMapper.pdb
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryServiceMapper\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryServiceMapper.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Infrastructure\IUserPasswordRepository.cs" />
+    <Compile Remove="Repositories\UserPasswordRepository.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Kcb.Service.Common.Domain\Kcb.Service.Common.Domain.csproj" />
+    <ProjectReference Include="..\Kcb.Service.Common.RepositoryPersistence\Kcb.Service.Common.RepositoryPersistence.csproj" />
+  </ItemGroup>
+
+</Project>

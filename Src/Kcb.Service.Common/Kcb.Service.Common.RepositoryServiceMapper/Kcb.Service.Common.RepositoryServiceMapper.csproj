@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Helper\JwtMiddleware.cs" />
+    <Compile Remove="Infrastructure\IMappedUserPasswordRepository.cs" />
+    <Compile Remove="Repositories\MappedUserPasswordRepository.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="automapper" Version="10.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.6" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Kcb.Service.Common.Domain\Kcb.Service.Common.Domain.csproj" />
+    <ProjectReference Include="..\Kcb.Service.Common.RepositoryService\Kcb.Service.Common.RepositoryService.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kcb.Service.Common.Domain/1.0.0": {
+        "runtime": {
+          "Kcb.Service.Common.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kcb.Service.Common.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.Domain\bin\Debug\netcoreapp3.1\Kcb.Service.Common.Domain.deps.json
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.Domain\bin\Debug\netcoreapp3.1\Kcb.Service.Common.Domain.dll
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.Domain\bin\Debug\netcoreapp3.1\Kcb.Service.Common.Domain.pdb
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.Domain\obj\Debug\netcoreapp3.1\Kcb.Service.Common.Domain.AssemblyInfoInputs.cache
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.Domain\obj\Debug\netcoreapp3.1\Kcb.Service.Common.Domain.AssemblyInfo.cs
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.Domain\obj\Debug\netcoreapp3.1\Kcb.Service.Common.Domain.dll
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.Domain\obj\Debug\netcoreapp3.1\Kcb.Service.Common.Domain.pdb
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.Domain\obj\Debug\netcoreapp3.1\Kcb.Service.Common.Domain.csproj.CoreCompileInputs.cache

@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Kcb.Service.Common.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Kcb.Service.Common.Api.Controllers.AuthenticateController">
+            <summary>
+            Init class AuthenticateController
+            </summary>
+        </member>
+        <member name="F:Kcb.Service.Common.Api.Controllers.AuthenticateController._mappedUserRepositoryService">
+            <summary>
+            _userRepository variable
+            </summary>
+        </member>
+        <member name="M:Kcb.Service.Common.Api.Controllers.AuthenticateController.#ctor(Kcb.Service.Common.RepositoryServiceMapper.Infrastructure.IMappedUserRepository)">
+            <summary>
+            UserController constructor
+            </summary>
+            <param name="mappedUserRepositoryService">mappedUserRepositoryService</param>
+        </member>
+        <member name="M:Kcb.Service.Common.Api.Controllers.AuthenticateController.Authenticate(Kcb.Service.Common.RepositoryServiceMapper.ViewModel.Authenticate.AuthenticateRequestViewModel)">
+            <summary>
+            Authenticate method
+            </summary>
+            <param name="model">model</param>
+            <returns>IActionResult</returns>
+        </member>
+        <member name="M:Kcb.Service.Common.Api.Controllers.AuthenticateController.Register(Kcb.Service.Common.Domain.RequestEntities.RequestModel.UserRequestModel)">
+            <summary>
+            Register user method
+            </summary>
+            <param name="userViewModel">userViewModel</param>
+        </member>
+        <member name="T:Kcb.Service.Common.Api.Controllers.BaseController">
+            <summary>
+            Init controller BaseController 
+            </summary>
+        </member>
+        <member name="T:Kcb.Service.Common.Api.Controllers.UserController">
+            <summary>
+            Init class UserController
+            </summary>
+        </member>
+        <member name="F:Kcb.Service.Common.Api.Controllers.UserController._mappedUserRepositoryService">
+            <summary>
+            _userRepository variable
+            </summary>
+        </member>
+        <member name="M:Kcb.Service.Common.Api.Controllers.UserController.#ctor(Kcb.Service.Common.RepositoryServiceMapper.Infrastructure.IMappedUserRepository)">
+            <summary>
+            UserController constructor
+            </summary>
+            <param name="mappedUserRepositoryService">mappedUserRepositoryService</param>
+        </member>
+        <member name="M:Kcb.Service.Common.Api.Controllers.UserController.Get">
+            <summary>
+            Get All users method
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Kcb.Service.Common.Api.Controllers.UserController.Get(System.Int64)">
+            <summary>
+            Get by id user method
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Kcb.Service.Common.Api.Controllers.UserController.Post(Kcb.Service.Common.RepositoryServiceMapper.ViewModel.UserViewModel)">
+            <summary>
+            Save user method
+            </summary>
+            <param name="userViewModel">userViewModel</param>
+        </member>
+        <member name="M:Kcb.Service.Common.Api.Controllers.UserController.Put(System.Int64,Kcb.Service.Common.RepositoryServiceMapper.ViewModel.UserViewModel)">
+            <summary>
+            Update user method
+            </summary>
+            <param name="id">id</param>
+            <param name="userViewModel">userViewModel</param>
+        </member>
+        <member name="M:Kcb.Service.Common.Api.Controllers.UserController.Delete(System.Int64)">
+            <summary>
+            Delete user method
+            </summary>
+            <param name="id">id</param>
+        </member>
+        <member name="M:Kcb.Service.Common.Api.Controllers.UserController.Register(System.Int64,Kcb.Service.Common.Domain.RequestEntities.RequestModel.UserRequestModel)">
+            <summary>
+            Register user method
+            </summary>
+            <param name="id">id</param>
+            <param name="userViewModel">userViewModel</param>
+        </member>
+        <member name="T:Kcb.Service.Common.Api.Helper.AuthorizeAttribute">
+            <summary>
+            Init class AuthorizeAttribute
+            </summary>
+        </member>
+        <member name="M:Kcb.Service.Common.Api.Helper.AuthorizeAttribute.OnAuthorization(Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext)">
+            <summary>
+            OnAuthorization method
+            </summary>
+            <param name="context">context</param>
+        </member>
+        <member name="T:Kcb.Service.Common.Api.Program">
+            <summary>
+            Init class Program
+            </summary>
+        </member>
+        <member name="M:Kcb.Service.Common.Api.Program.Main(System.String[])">
+            <summary>
+            Static method Main
+            </summary>
+            <param name="args">args</param>
+        </member>
+        <member name="M:Kcb.Service.Common.Api.Program.CreateHostBuilder(System.String[])">
+            <summary>
+            Static method CreateHostBuilder 
+            </summary>
+            <param name="args">args</param>
+            <returns>IHostBuilder</returns>
+        </member>
+        <member name="T:Kcb.Service.Common.Api.Startup">
+            <summary>
+            Init Startup
+            </summary>
+        </member>
+        <member name="M:Kcb.Service.Common.Api.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Instance Startup constructor
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="P:Kcb.Service.Common.Api.Startup.Configuration">
+            <summary>
+            Gets Configuration 
+            </summary>
+        </member>
+        <member name="M:Kcb.Service.Common.Api.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            ConfigureServices method
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Kcb.Service.Common.Api.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            Configure method
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>

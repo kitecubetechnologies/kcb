@@ -1,0 +1,15 @@
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryPersistence\bin\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryPersistence.deps.json
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryPersistence\bin\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryPersistence.runtimeconfig.json
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryPersistence\bin\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryPersistence.runtimeconfig.dev.json
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryPersistence\bin\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryPersistence.dll
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryPersistence\bin\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryPersistence.pdb
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryPersistence\bin\Debug\netcoreapp3.1\Kcb.Service.Common.Domain.dll
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryPersistence\bin\Debug\netcoreapp3.1\Kcb.Service.Common.Domain.pdb
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryPersistence\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryPersistence.csprojAssemblyReference.cache
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryPersistence\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryPersistence.AssemblyInfoInputs.cache
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryPersistence\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryPersistence.AssemblyInfo.cs
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryPersistence\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryPersistence.csproj.CopyComplete
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryPersistence\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryPersistence.dll
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryPersistence\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryPersistence.pdb
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryPersistence\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryPersistence.genruntimeconfig.cache
+F:\SampleProjects\Bharath freelancer\Kcb\Src\Kcb.Service.Common\Kcb.Service.Common.RepositoryPersistence\obj\Debug\netcoreapp3.1\Kcb.Service.Common.RepositoryPersistence.csproj.CoreCompileInputs.cache
